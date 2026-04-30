@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<root xmlns="urn:schemas-upnp-org:device-1-0"
+    xmlns:df="http://schemas.microsoft.com/windows/2008/09/devicefoundation">
+    <specVersion>
+        <major>1</major>
+        <minor>0</minor>
+    </specVersion>
+    <device>
+        <deviceType>urn:dial-multiscreen-org:device:dial:1</deviceType>
+        <friendlyName>XBOX</friendlyName>
+        <modelName>Xbox One</modelName>
+        <manufacturer>Microsoft Corporation</manufacturer>
+        <manufacturerURL>https://www.microsoft.com</manufacturerURL>
+        <modelURL>https://xbox.com</modelURL>
+        <UDN>uuid:33dfbafd-ed56-4013-92ae-de5bedcad72e</UDN>
+        <df:X_containerId>{609C28A0-6554-4E87-86E8-27BDDBE105AE}</df:X_containerId>
+        <serviceList>
+            <service>
+                <serviceType>urn:dial-multiscreen-org:service:dial:1</serviceType>
+                <serviceId>urn:dial-multiscreen-org:serviceId:dial</serviceId>
+                <controlURL>
+                    /upnphost/udhisapi.dll?control=uuid:33dfbafd-ed56-4013-92ae-de5bedcad72e+urn:dial-multiscreen-org:serviceId:dial</controlURL>
+                <eventSubURL></eventSubURL>
+                <SCPDURL>/upnphost/udhisapi.dll?content=uuid:47ec6faf-4d00-49ac-bfed-fad2cdd72ea0</SCPDURL>
+            </service>
+        </serviceList>
+    </device>
+</root>

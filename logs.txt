@@ -1,0 +1,227 @@
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Fri, 24 Apr 2026 19:40:35 GMT
+EXT:
+LOCATION: http://192.168.1.32:8008/ssdp/device-desc.xml
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 7eb4b2c4-1dd2-11b2-aa47-a623249bda43
+SERVER: Linux/4.19.116++, UPnP/1.0, Chromecast/1.6.18
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:b5ebad9f-5705-1ee9-0487-8a45ea61bc45::upnp:rootdevice
+BOOTID.UPNP.ORG: 0
+CONFIGID.UPNP.ORG: 1
+
+
+HTTP/1.1 200 OK
+ST: upnp:rootdevice
+USN: uuid:f59636db-9bb8-4a68-a123-c59ab695077d::upnp:rootdevice
+Location: http://192.168.1.29:2869/upnphost/udhisapi.dll?content=uuid:f59636db-9bb8-4a68-a123-c59ab695077d
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1ab7413d00bcee35709370e06a03812c
+Cache-Control: max-age=1800
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+Ext: 
+Date: Fri, 13 Dec 2019 02:22:26 GMT
+
+
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1801
+DATE: Fri, 24 Apr 2026 19:40:37 GMT
+EXT:
+LOCATION: http://192.168.1.1:49152/wps_device.xml
+SERVER: Unspecified, UPnP/1.0, Unspecified
+ST: upnp:rootdevice
+USN: uuid:3fa3bc32-d990-f05d-38f0-c669ea6f4615::upnp:rootdevice
+
+
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1801
+DATE: Fri, 24 Apr 2026 19:40:37 GMT
+EXT:
+LOCATION: http://192.168.1.1:49152/wps_device.xml
+SERVER: Unspecified, UPnP/1.0, Unspecified
+ST: upnp:rootdevice
+USN: uuid:3fa3bc32-d990-f05d-38f0-c669ea6f4615::upnp:rootdevice
+
+
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1801
+DATE: Fri, 24 Apr 2026 19:40:37 GMT
+EXT:
+LOCATION: http://192.168.1.1:49152/wps_device.xml
+SERVER: Unspecified, UPnP/1.0, Unspecified
+ST: uuid:3fa3bc32-d990-f05d-38f0-c669ea6f4615
+USN: uuid:3fa3bc32-d990-f05d-38f0-c669ea6f4615
+
+
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1801
+DATE: Fri, 24 Apr 2026 19:40:37 GMT
+EXT:
+LOCATION: http://192.168.1.1:49152/wps_device.xml
+SERVER: Unspecified, UPnP/1.0, Unspecified
+ST: uuid:3fa3bc32-d990-f05d-38f0-c669ea6f4615
+USN: uuid:3fa3bc32-d990-f05d-38f0-c669ea6f4615
+
+
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1801
+DATE: Fri, 24 Apr 2026 19:40:37 GMT
+EXT:
+LOCATION: http://192.168.1.1:49152/wps_device.xml
+SERVER: Unspecified, UPnP/1.0, Unspecified
+ST: urn:schemas-wifialliance-org:device:WFADevice:1
+USN: uuid:3fa3bc32-d990-f05d-38f0-c669ea6f4615::urn:schemas-wifialliance-org:device:WFADevice:1
+
+
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1801
+DATE: Fri, 24 Apr 2026 19:40:37 GMT
+EXT:
+LOCATION: http://192.168.1.1:49152/wps_device.xml
+SERVER: Unspecified, UPnP/1.0, Unspecified
+ST: urn:schemas-wifialliance-org:device:WFADevice:1
+USN: uuid:3fa3bc32-d990-f05d-38f0-c669ea6f4615::urn:schemas-wifialliance-org:device:WFADevice:1
+
+
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1801
+DATE: Fri, 24 Apr 2026 19:40:37 GMT
+EXT:
+LOCATION: http://192.168.1.1:49152/wps_device.xml
+SERVER: Unspecified, UPnP/1.0, Unspecified
+ST: urn:schemas-wifialliance-org:service:WFAWLANConfig:1
+USN: uuid:3fa3bc32-d990-f05d-38f0-c669ea6f4615::urn:schemas-wifialliance-org:service:WFAWLANConfig:1
+
+
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1801
+DATE: Fri, 24 Apr 2026 19:40:37 GMT
+EXT:
+LOCATION: http://192.168.1.1:49152/wps_device.xml
+SERVER: Unspecified, UPnP/1.0, Unspecified
+ST: urn:schemas-wifialliance-org:service:WFAWLANConfig:1
+USN: uuid:3fa3bc32-d990-f05d-38f0-c669ea6f4615::urn:schemas-wifialliance-org:service:WFAWLANConfig:1
+
+
+HTTP/1.1 200 OK
+ST: upnp:rootdevice
+USN: uuid:33dfbafd-ed56-4013-92ae-de5bedcad72e::upnp:rootdevice
+Location: http://192.168.1.29:2869/upnphost/udhisapi.dll?content=uuid:33dfbafd-ed56-4013-92ae-de5bedcad72e
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1ab7413d00bcee35709370e06a03812c
+Cache-Control: max-age=1800
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+Ext: 
+Date: Fri, 13 Dec 2019 02:22:26 GMT
+
+
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1801
+DATE: Fri, 24 Apr 2026 19:40:38 GMT
+EXT:
+LOCATION: http://192.168.1.1:49152/wps_device.xml
+SERVER: Unspecified, UPnP/1.0, Unspecified
+ST: upnp:rootdevice
+USN: uuid:3fa3bc32-d990-f05d-38f0-c669ea6f4615::upnp:rootdevice
+
+
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1801
+DATE: Fri, 24 Apr 2026 19:40:38 GMT
+EXT:
+LOCATION: http://192.168.1.1:49152/wps_device.xml
+SERVER: Unspecified, UPnP/1.0, Unspecified
+ST: upnp:rootdevice
+USN: uuid:3fa3bc32-d990-f05d-38f0-c669ea6f4615::upnp:rootdevice
+
+
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1801
+DATE: Fri, 24 Apr 2026 19:40:38 GMT
+EXT:
+LOCATION: http://192.168.1.1:49152/wps_device.xml
+SERVER: Unspecified, UPnP/1.0, Unspecified
+ST: uuid:3fa3bc32-d990-f05d-38f0-c669ea6f4615
+USN: uuid:3fa3bc32-d990-f05d-38f0-c669ea6f4615
+
+
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1801
+DATE: Fri, 24 Apr 2026 19:40:38 GMT
+EXT:
+LOCATION: http://192.168.1.1:49152/wps_device.xml
+SERVER: Unspecified, UPnP/1.0, Unspecified
+ST: uuid:3fa3bc32-d990-f05d-38f0-c669ea6f4615
+USN: uuid:3fa3bc32-d990-f05d-38f0-c669ea6f4615
+
+
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1801
+DATE: Fri, 24 Apr 2026 19:40:38 GMT
+EXT:
+LOCATION: http://192.168.1.1:49152/wps_device.xml
+SERVER: Unspecified, UPnP/1.0, Unspecified
+ST: urn:schemas-wifialliance-org:device:WFADevice:1
+USN: uuid:3fa3bc32-d990-f05d-38f0-c669ea6f4615::urn:schemas-wifialliance-org:device:WFADevice:1
+
+
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1801
+DATE: Fri, 24 Apr 2026 19:40:38 GMT
+EXT:
+LOCATION: http://192.168.1.1:49152/wps_device.xml
+SERVER: Unspecified, UPnP/1.0, Unspecified
+ST: urn:schemas-wifialliance-org:device:WFADevice:1
+USN: uuid:3fa3bc32-d990-f05d-38f0-c669ea6f4615::urn:schemas-wifialliance-org:device:WFADevice:1
+
+
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1801
+DATE: Fri, 24 Apr 2026 19:40:38 GMT
+EXT:
+LOCATION: http://192.168.1.1:49152/wps_device.xml
+SERVER: Unspecified, UPnP/1.0, Unspecified
+ST: urn:schemas-wifialliance-org:service:WFAWLANConfig:1
+USN: uuid:3fa3bc32-d990-f05d-38f0-c669ea6f4615::urn:schemas-wifialliance-org:service:WFAWLANConfig:1
+
+
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1801
+DATE: Fri, 24 Apr 2026 19:40:38 GMT
+EXT:
+LOCATION: http://192.168.1.1:49152/wps_device.xml
+SERVER: Unspecified, UPnP/1.0, Unspecified
+ST: urn:schemas-wifialliance-org:service:WFAWLANConfig:1
+USN: uuid:3fa3bc32-d990-f05d-38f0-c669ea6f4615::urn:schemas-wifialliance-org:service:WFAWLANConfig:1
+
+
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Fri, 24 Apr 2026 19:40:36 GMT
+ST: upnp:rootdevice
+USN: uuid:21df2e00-5a1d-4ff6-8843-b9ee46fdd05d::upnp:rootdevice
+EXT:
+SERVER: OpenWRT/12.09.1 UPnP/1.1 MiniUPnPd/2.1.20191006
+LOCATION: http://192.168.1.1:34566/21df2e00/rootDesc.xml
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1776474768
+BOOTID.UPNP.ORG: 1776474768
+CONFIGID.UPNP.ORG: 1337
+
+
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Fri, 24 Apr 2026 19:40:36 GMT
+ST: upnp:rootdevice
+USN: uuid:21df2e00-5a1d-4ff6-8843-b9ee46fdd05d::upnp:rootdevice
+EXT:
+SERVER: OpenWRT/12.09.1 UPnP/1.1 MiniUPnPd/2.1.20191006
+LOCATION: http://192.168.1.1:34566/21df2e00/IGDV1/rootDesc.xml
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1776474768
+BOOTID.UPNP.ORG: 1776474768
+CONFIGID.UPNP.ORG: 1337
+
+

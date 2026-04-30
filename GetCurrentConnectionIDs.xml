@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"
+    SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+    <SOAP-ENV:Body>
+        <m:GetCurrentConnectionIDsResponse
+            xmlns:m="urn:schemas-upnp-org:service:ConnectionManager:1">
+            <ConnectionIDs xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">0</ConnectionIDs>
+        </m:GetCurrentConnectionIDsResponse>
+    </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

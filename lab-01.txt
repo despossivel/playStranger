@@ -1,0 +1,5 @@
+
+
+listar todos servicos unpd
+
+nmap -sV -p 2869 --script upnp-info 192.168.1.29
