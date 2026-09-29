@@ -1,7 +1,5 @@
-Claro. Com o que temos confirmado:
-
 - **Xbox One:** `192.168.1.29:2869`
-- **Teu Mac:** `192.168.1.62`
+- **Meu Mac:** `192.168.1.62`
 - `SetAVTransportURI` executa (confirmado — abriu Films & TV)
 - `Play` ainda não testado após o Set
 
