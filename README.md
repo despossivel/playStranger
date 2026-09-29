@@ -1,6 +1,6 @@
-# Project X-Broadcast
+# Playstranger
 
-Project X-Broadcast is a lab repository for documenting an unauthenticated UPnP media-control exposure observed on Xbox One and Xbox Series. The material in this repository is organized for evidence preservation, responsible disclosure, and reproducibility in a controlled environment.
+Playstranger is a lab repository for documenting an unauthenticated UPnP media-control exposure observed on Xbox One and Xbox Series. The material in this repository is organized for evidence preservation, responsible disclosure, and reproducibility in a controlled environment.
 
 ## Executive Summary
 
